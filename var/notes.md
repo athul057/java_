@@ -12,7 +12,7 @@ System.out.println(a+b);
 }
 ```
 
-Here  inside the function's parameters we can't use var .But `we can pass the var arguments It will work`
+Here  inside the function's parameters we can't use var .But `we can pass the var arguments into the function It will work`
 
 
 ```java
