@@ -1,4 +1,7 @@
+###  public static void main(String[] args)
+
 `public static void main(String[] args)` though this we can pass argument through command line .
+
 
 
 for execcuting java program first `javac Main.java`
