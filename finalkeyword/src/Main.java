@@ -1,4 +1,5 @@
 import java.awt.*;
+import java.util.Arrays;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -25,6 +26,11 @@ p.y=20;
         System.out.println(Month.february);
         var myDistrict=Kerala.KANNUR;
         System.out.println(myDistrict);
+
+
+
+        //METHODS IN ENUM
+        System.out.println(Arrays.toString(Gender.values()));
 
     }
 }

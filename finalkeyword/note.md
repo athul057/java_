@@ -17,7 +17,7 @@ S,M,L,XL
 ```
 
 This will create  a new constant data type Gender and TShirtSize;
-enum is more prefered way to declare constants.
+enum is more preferred way to declare constants.
 
 
 we can also define enum with 
@@ -29,3 +29,5 @@ S,M,L,XL
 ````
 
 instead of class we can define the TShirtSize data type ..
+
+
