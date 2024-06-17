@@ -1,4 +1,15 @@
-In java Strings are stored inside a string pool
+In java Strings are stored inside a string pool.
+
+
+
+
+![stringBehaviour](/src/img.png)
+
+
+
+
+
+
 
 ````java
 String name1="ali";
@@ -26,3 +37,4 @@ to check the equality of string variable we often use `.equals` method in java
         System.out.println(name1.equals(name3));
 ```
 This is the prefered way to check the string equality in java
+
