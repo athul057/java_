@@ -3,7 +3,7 @@ In java Strings are stored inside a string pool.
 
 
 
-![stringBehaviour](/src/img.png)
+![stringBehaviour](./img.png)
 
 
 
