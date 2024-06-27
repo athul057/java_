@@ -1,6 +1,6 @@
 ## Execptions...
 
-[!exeception](./img.png);
+![exeception](./img.png)
 
 
 ### Run time exeception
