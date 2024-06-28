@@ -1,3 +1,6 @@
+import java.io.File;
+import java.io.IOException;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
@@ -26,8 +29,23 @@ finally {
     System.out.println("Finally Always runs");
 }
 
+// Unchecked Exception
+        try {
+            File file=new File("src/sample.txt");
+            if(!file.exists()){
+                file.createNewFile();
+            }
+        }
+        catch (IOException e){
+            System.out.println(e.getMessage());
+        }
+
+
+
+
     }
 
 
 }
+
 
