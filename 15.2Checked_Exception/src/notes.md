@@ -67,8 +67,10 @@ public class Main {
 ```
 
 Here we are we have to deal with the exception or pass the exception to higher methods.
-In the above case we passes the exception to Higher methods upto the main method
+In the above case we passes the exception to Upper Level
 
 From main method we resolve the Exception.
 
-Always resolve the Exception from the Parents.
+Always resolve the Exception from the Upper Level.
+When we don't want to deal with the exception we can use `throws`.
+In our case main method will handle the Exception.
