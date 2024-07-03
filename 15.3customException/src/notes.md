@@ -36,7 +36,7 @@ public class Main {
         } catch (MyCheckedException e) {
             System.out.println(e.getMessage());
         }
-
+ 
 
     }
 
