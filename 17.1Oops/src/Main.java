@@ -9,7 +9,7 @@ public class Main {
 
         Person p1=new Person("athul",26);
         Cat [] myCat={rose,miya,bina};
-        Person p2=new Person(myCat,"appu",20); 
+        Person p2=new Person(myCat,"appu",20);
 
         System.out.println(p2);
 
